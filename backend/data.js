@@ -8,7 +8,8 @@ export default {
             price: 149,
             brand: 'Samsung',
             rating: 4.3,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 3,
         },
         {
             _id: '2',
@@ -18,7 +19,8 @@ export default {
             price: 149,
             brand: 'Samsung',
             rating: 4.5,
-            numReviews: 5
+            numReviews: 5,
+            countInStock: 3,
         }, 
         {
             _id: '3',
@@ -28,7 +30,8 @@ export default {
             price: 149,
             brand: 'Samsung',
             rating: 4.1,
-            numReviews: 8
+            numReviews: 8,
+            countInStock: 3,
         },    
         {
             _id: '4',
@@ -38,7 +41,8 @@ export default {
             price: 149,
             brand: 'Samsung',
             rating: 4.2,
-            numReviews: 10
+            numReviews: 10,
+            countInStock: 3,
         },    
         {
             _id: '5',
@@ -48,7 +52,8 @@ export default {
             price: 149,
             brand: 'Samsung',
             rating: 4.5,
-            numReviews: 9
+            numReviews: 9,
+            countInStock: 3,
         },       
                 ]
             }
